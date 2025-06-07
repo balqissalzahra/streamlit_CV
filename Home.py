@@ -39,7 +39,7 @@ with col1:
     st.image(image, width=150)
 
 with col2:
-    st.markdown("### 👩 Biodata")
+    st.markdown("### Biodata")
     st.write("""
     - **Nama Lengkap**: Balqis Alzahra  
     - **Tempat, Tanggal Lahir**: Sukabumi, 11 Desember 1997  
